@@ -140,4 +140,4 @@ Java 17 ou superior
 Maven 3.8+
 Clonar o projeto
 
-git clone https://github.com/seu-usuario/desafio-empregados-auth.git
+``` git clone https://github.com/seu-usuario/desafio-empregados-auth.git ```
