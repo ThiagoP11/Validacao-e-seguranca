@@ -138,6 +138,7 @@ src
 Pré-requisitos
 Java 17 ou superior
 Maven 3.8+
-Clonar o projeto
 
-``` git clone https://github.com/seu-usuario/desafio-empregados-auth.git ```
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/desafio-empregados-auth.git
